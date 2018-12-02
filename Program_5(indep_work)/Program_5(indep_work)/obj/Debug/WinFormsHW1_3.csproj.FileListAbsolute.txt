@@ -1,0 +1,24 @@
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\bin\Debug\Program_5(indep_work).exe.config
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\bin\Debug\Program_5(indep_work).exe
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\bin\Debug\Program_5(indep_work).pdb
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\WinFormsHW1_3.csprojAssemblyReference.cache
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Form1.resources
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Form2.resources
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Form3.resources
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Properties.Resources.resources
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\WinFormsHW1_3.csproj.GenerateResource.cache
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\WinFormsHW1_3.csproj.CoreCompileInputs.cache
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5(indep_work).exe
+A:\Учеба\WidowsForms\Уроки в классе\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5(indep_work).pdb
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\bin\Debug\Program_5(indep_work).exe.config
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\bin\Debug\Program_5(indep_work).exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\bin\Debug\Program_5(indep_work).pdb
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\WinFormsHW1_3.csprojAssemblyReference.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Form1.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Form2.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Form3.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5_indep_work_.Properties.Resources.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\WinFormsHW1_3.csproj.GenerateResource.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\WinFormsHW1_3.csproj.CoreCompileInputs.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5(indep_work).exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW1\Program_5(indep_work)\Program_5(indep_work)\obj\Debug\Program_5(indep_work).pdb
